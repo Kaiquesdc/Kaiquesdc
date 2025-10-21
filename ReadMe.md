@@ -1,5 +1,5 @@
 # 💫 About Me:
-✏️ Cursando Análise e Desenvolvimento de Sistemas.<br>🌱 Sou estudante de Front end.<br>💻 Estou à procura de um estágio.
+✏️ Cursando Análise e Desenvolvimento de Sistemas.<br>🌱 Estou iniciando na área a procura do primeiro emprego.
 
 
 ## 🌐 Socials:
